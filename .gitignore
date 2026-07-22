@@ -1,0 +1,4 @@
+*.pem
+*.vault
+/vaultdrop
+.DS_Store
